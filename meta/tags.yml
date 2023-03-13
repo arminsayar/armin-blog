@@ -1,13 +1,7 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: Armin Sayar
+    name: ArminSayar
+  - slug: front end react nextjs
+    name: Front-End
+  - slug: software engineer
+    name: Software Engineer
